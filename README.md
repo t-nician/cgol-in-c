@@ -14,4 +14,4 @@ Press 2 to stop the program.
 
 
 ## Setup & Launch
-This utilizes CMake,
+This utilizes CMake!
