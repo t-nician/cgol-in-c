@@ -8,8 +8,8 @@
 // main
 
 int main() {
-    int row_size = 25;
-    int column_size = 150;
+    int row_size = 5;
+    int column_size = 5;
 
     srand((unsigned int) time(NULL));
 

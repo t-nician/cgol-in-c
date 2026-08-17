@@ -11,3 +11,7 @@ This project helped me understand heap vs stack and dereferencing pointers.
 ## Controls
 Press 1 to regenerate the grid. \
 Press 2 to stop the program.
+
+
+## Setup & Launch
+This utilizes CMake,

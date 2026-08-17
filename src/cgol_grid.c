@@ -63,7 +63,7 @@ void setupGrid(int row_size, int column_size) {
     grid = malloc(current_row_size * sizeof(*grid));
 
     for(int row = 0; row < current_row_size; row++) {
-        grid[row] = malloc(current_column_size * sizeof(*grid));
+        grid[row] = malloc(current_column_size * sizeof(char));
 
         for(int column = 0; column < current_column_size; column++) {
             grid[row][column] = createRandomCell();
