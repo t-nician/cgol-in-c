@@ -6,6 +6,7 @@
 #include "cgol_grid.h"
 #include "cgol_logic.h"
 
+// main
 
 int main() {
     int row_size = 25;
