@@ -1,4 +1,4 @@
-## Practice
+# [Conways Game of Life](https://www.google.com/search?q=conways+game+of+life)
 
 First project while learning C! 
 
